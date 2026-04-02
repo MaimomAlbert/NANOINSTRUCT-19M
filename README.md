@@ -1,4 +1,6 @@
 # NanoInstruct - Instruction-Tuned Small Language Model
+<img width="1910" height="843" alt="image" src="https://github.com/user-attachments/assets/2346d3c8-7d2b-44c8-b6da-73a2af439c69" />
+
 
 A **19.8M parameter** instruction-tuned language model built from scratch with PyTorch. NanoInstruct is fine-tuned on the Alpaca dataset and features a modern transformer architecture with RoPE embeddings, SwiGLU activations, and a byte-level tokenizer.
 
@@ -220,3 +222,5 @@ MIT License - feel free to use, modify, and distribute.
 ---
 
 Built with ❤️ using PyTorch and Streamlit
+
+
